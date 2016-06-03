@@ -1,11 +1,15 @@
 {
   "name": "multiwall-creator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates multiple screen wallpapers from single screen images.",
   "main": "main.js",
   "author": "Matt Langlois <fletchto99@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "gm": "^1.22.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fletchto99/multiwall-creator"
   }
 }
