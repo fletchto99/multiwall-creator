@@ -1,0 +1,11 @@
+{
+  "name": "multiwall-creator",
+  "version": "1.0.0",
+  "description": "Creates multiple screen wallpapers from single screen images.",
+  "main": "main.js",
+  "author": "Matt Langlois <fletchto99@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "gm": "^1.22.0"
+  }
+}
